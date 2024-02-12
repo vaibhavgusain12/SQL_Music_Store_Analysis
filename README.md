@@ -7,5 +7,4 @@ Database and Tools
 
 MySQL
 
-
 Schema- Music Store Database
